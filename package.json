@@ -1,0 +1,7 @@
+{
+  "name": "clean-relay",
+  "version": "1.0.0",
+  "description": "XHTTP relay on Vercel Edge",
+  "private": true,
+  "type": "module"
+}
